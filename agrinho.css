@@ -1,6 +1,6 @@
 body{
-    color: white;
-    background-color:  #2ecc71;
+    color: rgb(128, 3, 3);
+    background-color:  #131530;
 }
 ul{
     display: flex;
@@ -10,7 +10,7 @@ ul{
     padding: 16px;
 }
 a{
-    color: white;
+    color: rgb(59, 7, 7);
     text-decoration: none;
 }
 img{
